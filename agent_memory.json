@@ -1,0 +1,8 @@
+[
+  {
+    "timestamp": "2025-07-08T10:21:50.538214",
+    "prompt": "What does the codebase intend to do?",
+    "jenkins_result": "Error running agent: \"Input to ChatPromptTemplate is missing variables {'chat_history'}.  Expected: ['agent_scratchpad', 'chat_history', 'input'] Received: ['input', 'intermediate_steps', 'agent_scratchpad']\\nNote: if you intended {chat_history} to be part of the string and not a variable, please escape it with double curly braces like: '{{chat_history}}'.\\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT \"\n\nPlease make sure you have set up your OpenRouter API key correctly."
+  }
+  
+]
